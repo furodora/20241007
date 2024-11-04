@@ -1,0 +1,9 @@
+Adatok elérhetõsége:
+https://github.com/xerte2019/20241007
+
+Feladatok:
+- A szöveges fájlok letöltése GITHUB-ról.
+- A fájlok feldolgozása python programmal, adatszerkezete: JSON
+- A JSON adatok kiírása file-ba.
+- A kiírt adat és a feldolgozó program feltöltése saját GITHUB-ra.
+- A repository linkjének lementése egy txt fájlba.
